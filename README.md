@@ -10,4 +10,4 @@
 | [Root Node Prediction in Syntactic Dependency Trees](https://github.com/marwahmh/UPC-ML-Challenge) | ML modelling to predict root nodes in dependency trees | Python, scikit-learn |
 | [Research Publication Knowledge Graph](https://github.com/marwahmh/SDM_Lab2) | An RDF-based knowledge graph for modeling academic publications | Python, RDFLib |
 | [Data Pipeline for Scholarship Discovery Platform](https://github.com/marwahmh/ScholAmigo_BDM) | a data pipeline that orchestrates the collection, processing, and management of data related to international scholarship programs in an ELT process | Python, Pandas, NumPy, Apache Airflow, AWS S3, SQL, PostgreSQL, Neo4j, Spark |
-| [TPC-DS & TPC-DI Benchmarking](https://github.com/marwahmh/tpcds-official-kit-citus) | Performance evaluation of Citus database using standard benchmarks | C, SQL, Docker |
+| [TPC-DS](https://github.com/marwahmh/tpcds-official-kit-citus) & [TPC-DI](https://github.com/marwahmh/tpcdi-citus) Benchmarking  | Performance evaluation of Citus database using standard benchmarks | C, SQL, Docker |
